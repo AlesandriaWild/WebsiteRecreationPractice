@@ -36,3 +36,4 @@ window.addEventListener("load", function() {
   bod.append(anchor);
 });
 
+//Created by Alesandira Wild, Jason Markus, and Greg Ramsower.
